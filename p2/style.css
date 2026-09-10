@@ -1,0 +1,46 @@
+body {
+    background-color: lightblue;
+    margin: 0;
+    padding:0;
+ }
+
+ h1 {
+    color: white;
+    margin: 0;
+    margin-bottom: 20px;
+    padding:20px;
+
+ }
+ 
+header {
+    background-color: rgb(30, 151, 237);
+}
+ 
+.login {
+    color: white;
+    background-color: rgb(60, 181, 98);
+    width: 300px;
+    padding: 20px;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+.register {
+    color: white;
+    background-color: rgb(232, 86, 86);
+    width: 300px;
+    padding: 20px;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.konten {
+    display: flex;
+}
+
